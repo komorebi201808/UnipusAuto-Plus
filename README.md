@@ -6,7 +6,7 @@ U 校园（Unipus）自动答题工具，主要以浏览器扩展形式提供，
 适合大多数用户，无需命令行操作。
 下载
 ```bash
-git clone https://github.com/yuanarcsin/unipus_auto.git
+(https://github.com/komorebi201808/UnipusAuto-Plus.git)
 ```
 或者点击页面右上角绿色「Code」→「Download ZIP」，解压到本地文件夹。
 安装扩展
