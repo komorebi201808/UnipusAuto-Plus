@@ -5,7 +5,7 @@
 适合大多数用户，无需命令行操作。
 ### 下载
 ```bash
-[git clone https://github.com/yuanarcsin/unipus_auto.git](https://github.com/komorebi201808/UnipusAuto-Plus)
+[git clone https://github.com/yuanarcsin/unipus_auto.git]
 ```
 或者点击页面右上角绿色「Code」→「Download ZIP」，解压到本地文件夹。
 ### 安装扩展
