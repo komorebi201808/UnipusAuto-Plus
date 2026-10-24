@@ -16,11 +16,13 @@ Edge 浏览器：
 点击「加载解压缩的扩展」
 选择文件夹中的 `AutoUnipus/extension/` 目录（注意：不是根目录，是里面的 extension 文件夹）
 安装成功后工具栏会出现扩展图标
+
 Chrome 浏览器：
 地址栏输入 `chrome://extensions/` 并回车
 开启右上角的「开发者模式」
 点击「加载已解压的扩展程序」
 选择 `AutoUnipus/extension/` 目录
+
 使用
 打开 U 校园练习页面
 点击工具栏的扩展图标打开面板
