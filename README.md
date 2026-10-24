@@ -2,13 +2,9 @@
 基于 yuanarcsin/unipus_auto 优化的 U 校园自动答题工具，主要以浏览器扩展形式提供，另有 Python 独立脚本和 Java 桌面客户端。
 本项目是 vibecoding 产物，浏览器扩展已经验证大部分功能可用，但仍可能存在一些问题，欢迎任何形式的贡献。
 ---
-快速开始（浏览器扩展）
-适合大多数用户，无需命令行操作。
-下载
-```bash
-(https://github.com/komorebi201808/UnipusAuto-Plus)
-```
-或者点击页面右上角绿色「Code」→「Download ZIP」，解压到本地文件夹。
+快速开始
+点击页面右上角绿色「Code」→「Download ZIP」，解压到本地文件夹。
+
 安装扩展
 
 Edge 浏览器：
